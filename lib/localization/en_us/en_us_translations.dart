@@ -1,0 +1,27 @@
+final Map<String, String> enUs = {
+  "lbl_0": "0 %",
+  "lbl_done": "Done",
+  "lbl_go_to_task": "go to task",
+  "lbl_my_task": "My Task",
+  "lbl_name": "name",
+  "lbl_progress": "Progress",
+  "lbl_task_crafter": "TASK CRAFTER",
+  "lbl_task_name": "Task name",
+  "lbl_wireframe_apps": "Wireframe apps",
+  "msg_dashboard_design": "Dashboard design",
+  "msg_task_description": "task description",
+  "lbl_add_members": "Add Members",
+  "lbl_add_title": "add title ",
+  "lbl_create": "Create",
+  "lbl_create_task": "create task",
+  "lbl_description": "description",
+  "lbl_new_task": "New Task",
+  "lbl_title": "title",
+  "lbl_app_navigation": "App Navigation",
+  "msg_android_large": "Android Large - One - Container",
+  "msg_android_large2": "Android Large - Two",
+  "msg_check_your_app_s":
+      "Check your app's UI from the below demo screens of your app.",
+  "msg_network_err": "Network Error",
+  "msg_something_went_wrong": "Something Went Wrong!"
+};
