@@ -1,0 +1,46 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.task_crafter_app">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    
+    <!-- Make sure this permission is declared for receiving FCM messages -->
+    <permission android:name="com.example.task_crafter_app.permission.C2D_MESSAGE"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.example.task_crafter_app.permission.C2D_MESSAGE"/>
+
+    <application
+        android:label="task_crafter_app"
+        android:icon="@mipmap/ic_launcher">
+
+        <!-- ... other application components ... -->
+
+        <!-- Add Firebase Messaging service -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <!-- Add Firebase Instance ID service -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <!-- Add metadata for default notification channel -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="default_channel_id"/>
+
+    </application>
+
+</manifest>

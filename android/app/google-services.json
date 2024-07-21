@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513909251690",
+    "project_id": "taskcrafter-a7c64",
+    "storage_bucket": "taskcrafter-a7c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513909251690:android:76934dc4383d725f09f413",
+        "android_client_info": {
+          "package_name": "com.example.task_crafter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDxEMvmVBlX1IpxRv0D8U6THs5WM9w1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
