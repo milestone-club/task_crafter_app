@@ -1,7 +1,3 @@
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-[online documentation](https://docs.flutter.dev/)
-
 
 # Task Crafter
 
@@ -15,7 +11,6 @@ Task Crafter is a tool for managing tasks and projects efficiently. It offers a 
 
 ![Home Page](assets/images/homepage_screenshot.png)
 
-## Quick Start 📝
 
 ### Set up locally
 
@@ -23,7 +18,7 @@ Task Crafter is a tool for managing tasks and projects efficiently. It offers a 
 
 ### Installation Steps:
 
-#### Preparation:
+**Preparation:**
 
 1. Ensure Flutter is installed. If not, install Flutter from [flutter.dev](https://flutter.dev/docs/get-started/install).
 2. Clone the project repository from GitHub.
@@ -32,48 +27,50 @@ Task Crafter is a tool for managing tasks and projects efficiently. It offers a 
    git clone https://github.com/yourusername/Task-Crafter.git
    cd Task-Crafter
 
-#### Installation Process:
+**Installation Process:**
 
-Open a terminal and navigate to the project directory.
+1. Open a terminal and navigate to the project directory.
 
     ```bash
     cd Task-Crafter
 
-Get the Flutter packages:
+2. Get the Flutter packages:
 
     ```bash
     flutter pub get
 
-#### Setup and Configuration:
+**Setup and Configuration:**
 
-Create a new Firebase project and configure it for your Flutter app.
+1. Create a new Firebase project and configure it for your Flutter app.
 
     ```bash
     flutter create task_crafter
 
-Configure your Firebase project by following the instructions for adding Firebase to your Flutter app.
+2. Configure your Firebase project by following the instructions for adding Firebase to your Flutter app.
 
-Update the [android/app/google-services.json] and [ios/Runner/GoogleService-Info.plist] with your Firebase configuration files.
+3. Update the [android/app/google-services.json] and [ios/Runner/GoogleService-Info.plist] with your Firebase configuration files.
 
-Implement models, views, and controllers for task and project management in their respective directories.
+4. Implement models, views, and controllers for task and project management in their respective directories.
 
-#### Running the App:
+**Running the App:**
 
-Start the Flutter development server:
+1. Start the Flutter development server:
 
     ````bash
     flutter run
     
-Access the app on your emulator or connected device and test task creation, project management, and other functionalities.
-Validate UI/UX and interaction with tasks and projects.
+2. Access the app on your emulator or connected device and test task creation, project management, and other functionalities.
+
+3. Validate UI/UX and interaction with tasks and projects.
 
 **Troubleshooting:**
 
-Common issues: Firebase configuration errors, missing dependencies.
+1. Common issues: Firebase configuration errors, missing dependencies.
 
-Solutions: Refer to Flutter and Firebase documentation for setup and configuration details.
+2. Solutions: Refer to Flutter and Firebase documentation for setup and configuration details.
 
-Debugging: Check console logs and error messages for guidance.
+3. Debugging: Check console logs and error messages for guidance.
+   
 
 **Documentation Updates:**
 
@@ -81,11 +78,13 @@ Encourage user feedback and contributions via the project's GitHub repository.
 
 Regularly update documentation with troubleshooting tips and improvements.
 
+
 **Additional Notes:** ✍️
 
-Detailed tutorials and documentation on Flutter can be found at Flutter's official documentation.
+1. Detailed tutorials and documentation on Flutter can be found at Flutter's [official documentation](https://docs.flutter.dev/).
 
-Provide specific instructions and examples for integrating Firebase and implementing advanced features.
+2. Provide specific instructions and examples for integrating Firebase and implementing advanced features.
+   
 
 # Milestone Club
 
