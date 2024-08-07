@@ -1,3 +1,4 @@
+![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
 
 # Task Crafter
 
@@ -9,7 +10,7 @@ Task Crafter is a powerful task and project management tool designed to help use
 
 ## Home Page
 
-![Home Page](assets/images/homepage_screenshot.png)
+![Home Page](assets/images/homepage_screenshot.png) 
 
 ## Installation Steps:
 
@@ -20,7 +21,7 @@ Task Crafter is a powerful task and project management tool designed to help use
 - Clone the project repository from GitHub.
 
    ```bash
-   git clone https://github.com/yourusername/Task-Crafter.git
+   git clone https://github.com/milestone-club/task_crafter_app.git
    cd Task-Crafter
 
 
