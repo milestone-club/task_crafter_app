@@ -113,6 +113,10 @@ Our mission is to provide a platform for students to explore, create, and collab
 
 For updates, events, and highlights from the Milestone Club, follow us on [Instagram](https://www.instagram.com/milestone_club_vitap/).
 
+# License
+
+This project is licensed under the [MIT License] - see the [LICENSE] file for details.
+
 
 
 
