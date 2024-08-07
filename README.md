@@ -79,14 +79,6 @@ Task Crafter is a powerful task and project management tool designed to help use
 - Debugging: Check console logs and error messages for guidance.
    
 
-
-### **Documentation Updates:**
-
-- Encourage user feedback and contributions via the project's GitHub repository.
-
-- Regularly update documentation with troubleshooting tips and improvements.
-
-
 ## **Additional Notes:** ✍️
 
 - Detailed tutorials and documentation on Flutter can be found at Flutter's [official documentation](https://docs.flutter.dev/).
