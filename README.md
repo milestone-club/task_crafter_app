@@ -5,94 +5,95 @@ Task Crafter is a project management application designed to enhance productivit
 
 ## What is Task Crafter 🤔
 
-Task Crafter is a tool for managing tasks and projects efficiently. It offers a range of features, including task creation, project management, progress tracking, collaboration, and more. With its modern and user-friendly interface, Task Crafter is designed to help users stay organized and on top of their responsibilities.
+Task Crafter is a powerful task and project management tool designed to help users stay organized and manage responsibilities efficiently. The app allows users to create and manage projects, assign tasks, track progress with visual indicators, and set milestones. Collaboration is facilitated through comments, discussions, and pinned comments, while notifications keep users informed of updates. The modern, responsive design ensures a user-friendly experience across devices, and customizable views provide flexibility in task and project visualization. Integrated calendar features highlight upcoming deadlines and personal tasks. Additional functionalities include secure user authentication, an admin panel for managing roles and settings, file attachments for better documentation, time tracking for productivity analysis, and reporting on task and project progress.
 
 ## Home Page
 
 ![Home Page](assets/images/homepage_screenshot.png)
 
+## Installation Steps:
 
-### Set up locally
 
-**Prerequisites:** Ensure you have Flutter and Dart installed on your machine. You can download them from [flutter.dev](https://flutter.dev/docs/get-started/install)
+### **Preparation:**
 
-### Installation Steps:
-
-**Preparation:**
-
-1. Ensure Flutter is installed. If not, install Flutter from [flutter.dev](https://flutter.dev/docs/get-started/install).
-2. Clone the project repository from GitHub.
+- Ensure you have Flutter and Dart installed on your machine. If not, install Flutter from [flutter.dev](https://flutter.dev/docs/get-started/install).
+- Clone the project repository from GitHub.
 
    ```bash
    git clone https://github.com/yourusername/Task-Crafter.git
    cd Task-Crafter
 
-**Installation Process:**
 
-1. Open a terminal and navigate to the project directory.
+### **Installation Process:**
+
+- Open a terminal and navigate to the project directory.
 
     ```bash
     cd Task-Crafter
 
-2. Get the Flutter packages:
+- Get the Flutter packages:
 
     ```bash
     flutter pub get
 
-**Setup and Configuration:**
 
-1. Create a new Firebase project and configure it for your Flutter app.
+### **Setup and Configuration:**
+
+- Create a new Firebase project and configure it for your Flutter app.
 
     ```bash
-    flutter create task_crafter
+    flutter create task_crafter_app
 
-2. Configure your Firebase project by following the instructions for adding Firebase to your Flutter app.
+- Configure your Firebase project by following the instructions for adding Firebase to your Flutter app.
 
-3. Update the [android/app/google-services.json] and [ios/Runner/GoogleService-Info.plist] with your Firebase configuration files.
+- Add the `google-services.json` file to the `android/app` directory.
 
-4. Implement models, views, and controllers for task and project management in their respective directories.
+- Update the `pubspec.yaml` file with required dependencies.
 
-**Running the App:**
+- Implement models, views, and controllers for task and project management in their respective directories.
 
-1. Start the Flutter development server:
+
+### **Running the App:**
+
+- Start the Flutter development server:
 
     ````bash
     flutter run
     
-2. Access the app on your emulator or connected device and test task creation, project management, and other functionalities.
+- Access the app on your emulator or connected device and test task creation, project management, and other functionalities.
 
-3. Validate UI/UX and interaction with tasks and projects.
+- Validate UI/UX and interaction with tasks and projects.
 
-**Troubleshooting:**
 
-1. Common issues: Firebase configuration errors, missing dependencies.
+### **Troubleshooting:**
 
-2. Solutions: Refer to Flutter and Firebase documentation for setup and configuration details.
+- Common issues: Firebase configuration errors, missing dependencies.
 
-3. Debugging: Check console logs and error messages for guidance.
+- Solutions: Refer to Flutter and Firebase documentation for setup and configuration details.
+
+- Debugging: Check console logs and error messages for guidance.
    
 
-**Documentation Updates:**
 
-Encourage user feedback and contributions via the project's GitHub repository.
+### **Documentation Updates:**
 
-Regularly update documentation with troubleshooting tips and improvements.
+- Encourage user feedback and contributions via the project's GitHub repository.
+
+- Regularly update documentation with troubleshooting tips and improvements.
 
 
-**Additional Notes:** ✍️
+## **Additional Notes:** ✍️
 
-1. Detailed tutorials and documentation on Flutter can be found at Flutter's [official documentation](https://docs.flutter.dev/).
+- Detailed tutorials and documentation on Flutter can be found at Flutter's [official documentation](https://docs.flutter.dev/).
 
-2. Provide specific instructions and examples for integrating Firebase and implementing advanced features.
+- Provide specific instructions and examples for integrating Firebase and implementing advanced features.
    
 
 # Milestone Club
 
-
 ### About Milestone Club, VIT AP University
 
 The Milestone Club at VIT AP University is a student-driven organization aimed at providing a platform for students to explore and develop their skills in various technological domains. We focus on organizing collaborative projects to enhance practical knowledge and encourage innovation.
-
 
 ## Our Mission 
 
