@@ -115,7 +115,7 @@ For updates, events, and highlights from the Milestone Club, follow us on [Insta
 
 # License
 
-This project is licensed under the [MIT License] - see the [LICENSE](https://github.com/milestone-club/task_crafter_app/blob/main/LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/milestone-club/task_crafter_app?tab=MIT-1-ov-file#) - see the [LICENSE](https://github.com/milestone-club/task_crafter_app/blob/main/LICENSE.md) file for details.
 
 
 
