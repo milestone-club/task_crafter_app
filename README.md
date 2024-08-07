@@ -12,8 +12,8 @@ Task Crafter is a powerful task and project management tool designed to help use
 
 <p align="center">
   <img src="assets/images/Screenshot_1723044430.png" alt="Homepage" width="30%" />
-  <img src="assets/images/newtask.png" alt="New Task" width="30%" />
-  <img src="assets/images/calender.png" alt="Calendar" width="30%" />
+  <img src="assets/images/Screenshot_1723044553.png" alt="New Task" width="30%" />
+  <img src="assets/images/Screenshot_1723044891.png" alt="Calendar" width="30%" />
 </p>
 
 
