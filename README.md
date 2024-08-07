@@ -8,7 +8,6 @@ Task Crafter is a project management application designed to enhance productivit
 
 Task Crafter is a powerful task and project management tool designed to help users stay organized and manage responsibilities efficiently. The app allows users to create and manage projects, assign tasks, track progress with visual indicators, and set milestones. Collaboration is facilitated through comments, discussions, and pinned comments, while notifications keep users informed of updates. The modern, responsive design ensures a user-friendly experience across devices, and customizable views provide flexibility in task and project visualization. Integrated calendar features highlight upcoming deadlines and personal tasks. Additional functionalities include secure user authentication, an admin panel for managing roles and settings, file attachments for better documentation, time tracking for productivity analysis, and reporting on task and project progress.
 
-## Home Page
 
 <p align="center">
   <img src="assets/images/Screenshot_1723044430.png" alt="Homepage" width="30%" />
