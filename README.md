@@ -15,6 +15,52 @@ Task Crafter is a powerful task and project management tool designed to help use
   <img src="assets/images/Screenshot_1723044891.png" alt="Calendar" width="30%" />
 </p>
 
+## Features and Activities in Task Crafter
+
+### Project Management
+
+- **Create Projects**: Users can create new projects, define project goals, and set deadlines.
+- **Manage Projects**: Edit project details, add or remove team members, and track project progress.
+- **Project Overview**: View a comprehensive overview of all projects, including deadlines and progress status.
+
+### Task Management
+
+- **Create Tasks**: Add new tasks with detailed descriptions, deadlines, and priorities.
+- **Assign Tasks**: Assign tasks to specific team members and set due dates.
+- **Subtasks**: Break down tasks into subtasks for better organization and tracking.
+
+### Progress Tracking
+
+- **Task Progress**: Track the progress of tasks and subtasks with a visual progress bar.
+- **Project Progress**: Monitor the overall progress of projects and ensure deadlines are met.
+- **Milestones**: Set and track key milestones within projects.
+
+### Collaboration
+
+- **Comments and Discussions**: Add comments to tasks and projects for team communication.
+- **Pin Comments**: Pin important comments to the top of the discussion thread.
+- **Notifications**: Receive notifications for task assignments, comments, and project updates.
+
+### User Interface and Experience
+
+- **Modern Design**: A sleek and modern interface that enhances user experience.
+- **Responsive Layout**: Ensures a seamless experience across different devices.
+- **Customizable Views**: Customize views to show tasks, projects, and deadlines in various formats (e.g., list, calendar).
+
+### Calendar Integration
+
+- **Task Calendar**: View tasks and deadlines on a calendar to manage time effectively.
+- **Upcoming Deadlines**: Highlight upcoming deadlines for tasks and projects.
+- **Personal Tasks**: Include personal tasks alongside project tasks for a holistic view of responsibilities.
+
+### Additional Functionalities
+
+- **User Authentication**: Secure login and user management features.
+- **Admin Panel**: Manage user roles, project access, and app settings through an admin interface.
+- **File Attachments**: Attach files to tasks and projects for better documentation and reference.
+- **Time Tracking**: Track time spent on tasks and projects for better productivity analysis.
+- **Reporting**: Generate reports on task and project progress, time tracking, and user activity.
+
 
 ## Installation Steps:
 
