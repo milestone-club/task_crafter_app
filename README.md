@@ -2,6 +2,8 @@
 
 # Task Crafter
 
+[Download from GitHub Releases](https://github.com/milestone-club/task_crafter_app/releases/tag/TaskCrafter)
+
 Task Crafter is a project management application designed to enhance productivity and organization. With a focus on user experience, Task Crafter provides an intuitive and seamless interface for managing tasks, projects, deadlines, and collaboration.
 
 ## What is Task Crafter 🤔
